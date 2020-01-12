@@ -1,0 +1,36 @@
+class complex
+{
+  intern:
+    var int poz;
+  extern:
+    var int val;
+};
+
+poz (int i, char j) -> int
+{
+  i -> i + 3;
+  return b;
+};
+
+var int a -> 3;
+var int b -> 4;
+var char l;
+var float o -> 3.0;
+var float r;
+
+main
+begin
+  b -> 3;
+  b -> 3 - 1;
+  if (a equal b) then
+  {
+    print (l);
+  };
+  r -> 9.2;
+  l -> 'o';
+  while (a equal b) do
+  {
+    b -> b + 1;
+    a -> a - 1;
+  };
+end
